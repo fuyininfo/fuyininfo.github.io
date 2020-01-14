@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fuyininfo.github.io/</id>
     <title>复印info</title>
-    <updated>2020-01-14T18:09:26.170Z</updated>
+    <updated>2020-01-14T18:20:19.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fuyininfo.github.io/"/>
     <link rel="self" href="https://fuyininfo.github.io/atom.xml"/>
@@ -10,6 +10,49 @@
     <logo>https://fuyininfo.github.io/images/avatar.png</logo>
     <icon>https://fuyininfo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 复印info</rights>
+    <entry>
+        <title type="html"><![CDATA[猪年大货廊！写春联啦！]]></title>
+        <id>https://fuyininfo.github.io/post/190111spring-couplets-hajime-info-005</id>
+        <link href="https://fuyininfo.github.io/post/190111spring-couplets-hajime-info-005">
+        </link>
+        <updated>2019-01-10T18:17:25.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="写春联啦">写春联啦！</h1>
+<p>流窜摊贩兼售：小册子/漫画/贴纸/糖果/气球等杂货；</p>
+<p>大货廊和复印会拜访朋友们的店恭贺新禧，并在附近摆摊。</p>
+<p>如果有朋友要来玩或加入我们一起做小贩，请联系微信junelee220或tototoy6</p>
+<h3 id="武汉全城流窜路线">武汉全城流窜路线：</h3>
+<p>1月11日(周五)：*光谷转盘天桥地道地铁口- *藏龙岛微线体720书店找酒喝- *昙华林barbershop边上- *江边或哪里玩还没计划。</p>
+<p>1月12日(周六)：*卓刀泉感官唱片楼下- *汉口洞庭小路IFT门口- *鲁磨路Wuhan Prison巷子</p>
+<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/fuyininfo/info.picgo/master/img/xiechunlian-s.jpg" alt="image" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[获赠]]></title>
+        <id>https://fuyininfo.github.io/post/190106firstbookshelf-info-004-bkslf</id>
+        <link href="https://fuyininfo.github.io/post/190106firstbookshelf-info-004-bkslf">
+        </link>
+        <updated>2019-01-05T18:15:29.000Z</updated>
+        <content type="html"><![CDATA[<p>感谢</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们需要些书架！]]></title>
+        <id>https://fuyininfo.github.io/post/181221secondhand-bookshelf-info-003-weneedbkshlf</id>
+        <link href="https://fuyininfo.github.io/post/181221secondhand-bookshelf-info-003-weneedbkshlf">
+        </link>
+        <updated>2018-12-20T18:11:00.000Z</updated>
+        <content type="html"><![CDATA[<p>我们需要一些书架来放置info的书籍和册子，<br>
+如果你有不再使用的二手家具或书架可以留赠给“复印”（info）。<br>
+<strong>对好心人的礼物，复印会准备一些小zine作为回赠。</strong></p>
+<p>留赠事宜可联系：fuyininfo@disroot.org</p>
+<p>非常感谢！<br>
+这个接收计划长期存在。</p>
+<p>当然更欢迎大家来玩。<br>
+<em>地址是：武汉植物园路东头村103号。在大东头，即没到植物园正门右边口子进村，走过两边是田的水泥路上坡后，<br>
+到达一个小卖部/麻将室之后(门口是赵笨山和喜羊羊的摇摇车)，右拐进巷子走100米看到有涂鸦的啤酒仓库边上就到。</em></p>
+<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/fuyininfo/info.picgo/master/img/needbkshlf02.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[热烈欢迎定海桥互助社朋友前来武汉东湖：纸导工作]]></title>
         <id>https://fuyininfo.github.io/post/181212dinghaiqiao-poster.info-002</id>
