@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fuyininfo.github.io/</id>
     <title>复印info</title>
-    <updated>2020-01-14T17:47:45.915Z</updated>
+    <updated>2020-01-14T17:50:01.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fuyininfo.github.io/"/>
     <link rel="self" href="https://fuyininfo.github.io/atom.xml"/>
@@ -16,9 +16,7 @@
         <link href="https://fuyininfo.github.io/post/181212dinghaiqiao-poster.info-002">
         </link>
         <updated>2018-12-12T15:03:36.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="热烈欢迎定海桥互助社朋友前来武汉东湖">热烈欢迎定海桥互助社朋友前来武汉东湖：</h2>
-<h1 id="纸导工作">纸导工作</h1>
-<p>各位好，我们14号傍晚16:30会有一个活动：上海的“定海桥互助社活动海报回顾展览”武汉站的开幕。</p>
+        <content type="html"><![CDATA[<p>各位好，我们14号傍晚16:30会有一个活动：上海的“定海桥互助社活动海报回顾展览”武汉站的开幕。</p>
 <p>而当天为欢迎上海的朋友们，前戏会在上午11点开始到湖边巡游(或许是一次对东湖绿道的异轨，叫“定海巡湖”)，如果你们也能来我们将很高兴！</p>
 <ul>
 <li>
@@ -28,7 +26,7 @@
 <p><em><small>时间安排：上午11点在东头村集合去东湖绿道，当然带着一些吃的，傍晚16:30我们会回到工作室准备围炉夜话！</small></em></p>
 </li>
 </ul>
-<figure data-type="image" tabindex="1"><img src="https://github.com/fuyininfo/info/blob/master/181212dinghaiqiao-poster/dhqps.jpg" alt="image" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://github.com/fuyininfo/info/blob/master/181212dinghaiqiao-poster/dhqps.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
