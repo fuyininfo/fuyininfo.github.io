@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fuyininfo.github.io/</id>
     <title>复印info</title>
-    <updated>2020-01-15T06:33:51.176Z</updated>
+    <updated>2020-01-19T06:15:55.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fuyininfo.github.io/"/>
     <link rel="self" href="https://fuyininfo.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://fuyininfo.github.io/images/avatar.png</logo>
     <icon>https://fuyininfo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 复印info</rights>
+    <entry>
+        <title type="html"><![CDATA[去偷菜！唐潮 & 复(in)印(fo)放(火)映(锅)会]]></title>
+        <id>https://fuyininfo.github.io/post/200120happyfarm-video-tangchao-info14.md</id>
+        <link href="https://fuyininfo.github.io/post/200120happyfarm-video-tangchao-info14.md">
+        </link>
+        <updated>2020-01-19T04:04:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="去偷菜">去偷菜！</h1>
+<h2 id="唐潮-复in印fo放火映锅会">唐潮 &amp; 复(in)印(fo)放(火)映(锅)会</h2>
+<video id="video" controls="" preload="none">
+      <source id="mp4" src="https://raw.githubusercontent.com/fuyininfo/info/master/200119happyfarm-video-tangchao/tangchao2020-01-20.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+<p>唐潮最近“重返”<a href="https://www.kaixin001.com/">开心网</a>， <mark>发现这里已经变成了网络地理空间里的一个废墟/遗迹/无人区，起码是人烟稀少的，</mark>  当然广告屏幕仍在播放(渣渣辉升职记)；十年前该网和另一个已改名的站点最先仿造脸书虚拟社区，让“<a href="https://www.zhihu.com/question/26082017">偷菜</a>”几乎成为全民运动。他在被废弃的农场开始种植，进行一些拍摄劳动及相关的思考。</p>
+<p>连同以上话题，唐潮近年创作的视频也会在复印info放映，完了一起去偷菜做火锅，搞映后啖：</p>
+<pre><code>#时间：2020年1月19日14:00
+
+#地点：武汉市洪山区鲁磨路东头村103号(近植物园)
+</code></pre>
+<h3 id="阅读延伸">阅读延伸：</h3>
+<p><a href="https://zh.wikipedia.org/wiki/%E5%BC%80%E5%BF%83%E7%BD%91">开心网on wikipedia</a></p>
+<p><a href="https://kenengba.com/post/539.html">山寨开心网(附邀请链接)，可能吧博客文章，2008年</a></p>
+<p><a href="https://m.pedaily.cn/news/404067">开心网10亿卖身 “偷菜”7年落魄至没人理</a></p>
+<p><a href="https://kknews.cc/game/aee6yon.html">有一款游戏叫偷菜，有一种记忆叫青春</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伙伴们来赶集：鹏鹏摇滚烧烤ROCKEBAB!]]></title>
         <id>https://fuyininfo.github.io/post/200115rockebab-info013</id>
@@ -360,15 +385,6 @@ Italo Calvino Invisible Cities</p>
 <p>1月11日(周五)：*光谷转盘天桥地道地铁口- *藏龙岛微线体720书店找酒喝- *昙华林barbershop边上- *江边或哪里玩还没计划。</p>
 <p>1月12日(周六)：*卓刀泉感官唱片楼下- *汉口洞庭小路IFT门口- *鲁磨路Wuhan Prison巷子</p>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/fuyininfo/info/master/190111spring-couplets-hajime/xiechunlian-s.jpg" alt="image" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获赠]]></title>
-        <id>https://fuyininfo.github.io/post/190106firstbookshelf-info-004-bkslf</id>
-        <link href="https://fuyininfo.github.io/post/190106firstbookshelf-info-004-bkslf">
-        </link>
-        <updated>2019-01-05T18:15:29.000Z</updated>
-        <content type="html"><![CDATA[<p>感谢</p>
 ]]></content>
     </entry>
 </feed>
