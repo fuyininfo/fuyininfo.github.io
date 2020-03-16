@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fuyininfo.github.io/</id>
     <title>复印info</title>
-    <updated>2020-03-16T06:27:44.150Z</updated>
+    <updated>2020-03-16T06:31:58.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fuyininfo.github.io/"/>
     <link rel="self" href="https://fuyininfo.github.io/atom.xml"/>
@@ -35,7 +35,7 @@
 开辟菜地，菜种，治理田地<br>
 砖窑和屋棚的搭建资料和规划<br>
 搭建材料</p>
-<p>//了解更多可以看这里：主页及邮箱fuyininfo@disroot.org</p>
+<p>//了解更多可以看这里：<a href="https://fuyininfo.github.io/post/planting-and-oven-building-after-covid19">主页</a>/ 及邮箱fuyininfo@disroot.org</p>
 <p>复印info， 武汉</p>
 ]]></content>
     </entry>
@@ -45,8 +45,18 @@
         <link href="https://fuyininfo.github.io/post/bba">
         </link>
         <updated>2020-03-14T06:13:07.000Z</updated>
-        <content type="html"><![CDATA[<p>线上阅读：http://blackbook.hk/media/BBAnewsletter_draft09.pdf<br>
-黑白打印：http://blackbook.hk/media/BBAnewsletter_draft09_BWankara.pdf</p>
+        <summary type="html"><![CDATA[<p>黑書眾《半年多報》<br>
+Black Book Assembly<br>
+More-Than-Half-A-Year-in-Review<br>
+2020年3月出版 | published March 2020</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>黑書眾《半年多報》<br>
+Black Book Assembly<br>
+More-Than-Half-A-Year-in-Review<br>
+2020年3月出版 | published March 2020</p>
+<!-- more -->
+<p>线上阅读：<a href="http://blackbook.hk/media/BBAnewsletter_draft09.pdf">color for web</a><br>
+黑白打印：<a href="http://blackbook.hk/media/BBAnewsletter_draft09_BWankara.pdf">B/W for print</a></p>
 <figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/fuyininfo/info/master/200314BBA/WechatIMG2465.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
