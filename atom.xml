@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fuyininfo.github.io/</id>
     <title>复印info</title>
-    <updated>2020-11-12T05:55:52.001Z</updated>
+    <updated>2020-11-12T05:57:42.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fuyininfo.github.io/"/>
     <link rel="self" href="https://fuyininfo.github.io/atom.xml"/>
@@ -44,8 +44,8 @@
 </li>
 </ul>
 <p>更多：<br>
-<img src="https://mp.weixin.qq.com/s/4x2g7QhgP25HhcLCVaqXlQ" alt="微线体活动推送" loading="lazy"><br>
-<img src="https://mp.weixin.qq.com/s/Ajt085I7_hgDm6Ymluc2Gg" alt="余果在微线体的工作坊" loading="lazy"></p>
+<a href="https://mp.weixin.qq.com/s/4x2g7QhgP25HhcLCVaqXlQ">微线体活动推送</a><br>
+<a href="https://mp.weixin.qq.com/s/Ajt085I7_hgDm6Ymluc2Gg">余果在微线体的工作坊</a></p>
 ]]></content>
     </entry>
     <entry>
